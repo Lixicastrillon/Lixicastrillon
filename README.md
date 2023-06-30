@@ -2,7 +2,7 @@
   Estoy en camino a ser Full stack developer  💞️ \
   Me interesé en aprender programación por la gran necesidad que existe en diseñar y mejorar la experiencia del usuario.  
 
-💻¿Que hago?¿Que tecnologias uso? 
+💻¿Que hago?¿Que tecnologias uso? \
  Actualmente estoy en el BootCamp de Henry aprendiendo  tecnologías que me han llenado de conocimiento y experiencia,estas tecnologías son: 
 
 🔹JavaScript \
@@ -20,7 +20,7 @@
   
 👩🏼‍💻 Estoy buscando colaborar en un equipo de trabajo donde pueda aportar valor desde mi conocimiento y  enriquecerme de experiencias en el mundo de la programación. 
 
-📫 Cómo contactarme: 
+📫 Cómo contactarme: \
 correo electrónico: 
 xcl_xioma@hotmail.com 
 
