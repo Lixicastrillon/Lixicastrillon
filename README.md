@@ -15,19 +15,19 @@
 🔹HTML5 \
 🔹CSS \
 
-🌱 ¿A donde me dirijo ? 
-  Mi objetivo es aportar a la experiencia del usuario, quiero que sea facil , intuitiva y segura.
+🌱 ¿A donde me dirijo ? \
+  Mi objetivo es aportar a la experiencia del usuario, quiero que sea facil , intuitiva y segura. \
   
-💞️   Estoy buscando colaborar en un equipo de trabajo donde pueda aportar valor desde mi conocimiento y  enriquecerme de experiencias en el mundo de la programación.
+💞️   Estoy buscando colaborar en un equipo de trabajo donde pueda aportar valor desde mi conocimiento y  enriquecerme de experiencias en el mundo de la programación. \
 
-📫 Como contactarme:
-correo electrónico:
-xcl_xioma@hotmail.com
+📫 Como contactarme: \
+correo electrónico: \
+xcl_xioma@hotmail.com \
 
-Linkedin:
-https://www.linkedin.com/in/lixicastrillon/
+Linkedin: \
+https://www.linkedin.com/in/lixicastrillon/ \
 
-gitHub:
-[Lixicastrillon](https://github.com/Lixicastrillon/)
+gitHub: \
+[Lixicastrillon](https://github.com/Lixicastrillon/) \
 
 ✨
