@@ -21,6 +21,9 @@
 👩🏼‍💻 Estoy buscando colaborar en un equipo de trabajo donde pueda aportar valor desde mi conocimiento y  enriquecerme de experiencias en el mundo de la programación. 
 
 📫 Cómo contactarme: \
+
+Celular : 3133049793
+
 correo electrónico: 
 xcl_xioma@hotmail.com 
 
