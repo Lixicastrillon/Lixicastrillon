@@ -3,7 +3,7 @@
   Me interesé en aprender programación por la gran necesidad que existe en diseñar y mejorar la experiencia del usuario.  
 
 💻¿Que hago?¿Que tecnologias uso? \
- Actualmente estoy en el BootCamp de Henry aprendiendo  tecnologías ,estas  son: 
+ Actualmente estoy en el BootCamp de Henry aprendiendo algunas tecnologías ,estas  son: 
 
 🔹JavaScript \
 🔹React \
