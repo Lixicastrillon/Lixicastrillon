@@ -1,8 +1,8 @@
- 👋 Hola !!
+ 👋 Hola !! \
   Estoy en camino a ser Full stack developer  💞️ \
   Me interesé en aprender programación por la gran necesidad que existe en diseñar y mejorar la experiencia del usuario. \
 
-💻¿Que hago?¿Que tecnologias uso? \
+💻¿Que hago?¿Que tecnologias uso? 
  Actualmente estoy en el BootCamp de Henry aprendiendo  tecnologías que me han llenado de conocimiento y experiencia,estas tecnologías son: \
 
 🔹JavaScript \
@@ -13,7 +13,7 @@
 🔹Sequelize \
 🔹Redux \
 🔹HTML5 \
-🔹CSS \
+🔹CSS 
 
 🌱 ¿A donde me dirijo ? \
   Mi objetivo es aportar a la experiencia del usuario, quiero que sea facil , intuitiva y segura. \
