@@ -20,14 +20,14 @@
   
 💞️   Estoy buscando colaborar en un equipo de trabajo donde pueda aportar valor desde mi conocimiento y  enriquecerme de experiencias en el mundo de la programación. 
 
-📫 Como contactarme: \
-correo electrónico: \
+📫 Como contactarme: 
+correo electrónico: 
 xcl_xioma@hotmail.com 
 
-Linkedin: \
+Linkedin: 
 https://www.linkedin.com/in/lixicastrillon/ 
 
-gitHub: \
+gitHub: 
 [Lixicastrillon](https://github.com/Lixicastrillon/) 
 
 ✨
