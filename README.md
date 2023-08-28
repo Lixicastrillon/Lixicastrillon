@@ -25,7 +25,7 @@
 Celular : 3133049793
 
 correo electrónico: 
-xcl_xioma@hotmail.com 
+licedxcastrillon@gmail.com 
 
 Linkedin: 
 https://www.linkedin.com/in/lixicastrillon/ 
