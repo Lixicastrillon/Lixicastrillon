@@ -1,5 +1,5 @@
  👋 Hola !! \
-  Estoy en camino a ser Full stack developer  💞️ \
+  Soy Web Full stack developer  💞️ \
   Me interesé en aprender programación por la gran necesidad que existe en diseñar y mejorar la experiencia del usuario.  
 
 💻¿Que hago?¿Que tecnologias uso? \
