@@ -1,9 +1,9 @@
  👋 Hola !! \
   Soy desarrollador Web Full stack   💞️ \
-  Me interesé en aprender programación por la gran necesidad que existe en diseñar y mejorar la experiencia del usuario.  
+  Me interesé en aprender programación por la gran necesidad que existe en mejorar la experiencia del usuario.  
 
 💻¿Que hago?¿Que tecnologias uso? \
- Actualmente estoy en el BootCamp de Henry aprendiendo algunas tecnologías ,estas  son: 
+ Estudié en el BootCamp de soy Henry,tecnologías aprendidas: 
 
 🔹JavaScript \
 🔹React \
