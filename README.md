@@ -1,6 +1,6 @@
  👋 Hola !! \
-  Soy desarrollador Web Full stack   💞️ \
-  Me interesé en aprender programación por la gran necesidad que existe en mejorar la experiencia del usuario.  
+  Soy desarrollador backend   💞️ \
+  Me interesé en el desarrollo backend por la importancia de construir sistemas eficientes y escalables que optimicen el rendimiento y la experiencia del usuario.  
 
 💻¿Que hago?¿Que tecnologias uso? \
  Estudié en el BootCamp de soy Henry,tecnologías aprendidas: 
