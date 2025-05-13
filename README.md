@@ -10,6 +10,7 @@
 🔹Nodejs \
 🔹Express \
 🔹PostgreSQL \
+🔹MongoDb \
 🔹Sequelize \
 🔹Redux \
 🔹HTML5 \
